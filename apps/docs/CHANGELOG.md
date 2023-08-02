@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/alojzy231/release-please-playground/compare/docs-panel-v1.4.0...docs-panel-v1.4.1) (2023-08-02)
+
+
+### Bug Fixes
+
+* docs 3 ([ec30c34](https://github.com/alojzy231/release-please-playground/commit/ec30c348c5a8d584fff2b997fe1c536cf4b8984a))
+
 ## [1.4.0](https://github.com/alojzy231/release-please-playground/compare/docs-panel-v1.3.0...docs-panel-v1.4.0) (2023-08-02)
 
 
