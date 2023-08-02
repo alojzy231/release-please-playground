@@ -1,0 +1,14 @@
+name: CD - Docs - prod
+
+on:
+  push:
+    # Pattern matched against refs/tags
+    tags:
+      - '*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to production
+        run: curl -X POST -d {} ${{ secrets.DOCS_DEPLOY_HOOK }}

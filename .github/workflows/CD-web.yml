@@ -1,0 +1,14 @@
+name: CD - Web - prod
+
+on:
+  push:
+    # Pattern matched against refs/tags
+    tags:
+      - '*' # Push events to every tag not containing /
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to production
+        run: curl -X POST -d {} ${{ secrets.WEB_DEPLOY_HOOK }}

@@ -1,0 +1,8 @@
+{
+  "git": {
+    "deploymentEnabled": {
+      "master": false,
+      "release-please--branches--master": false
+    }
+  }
+}
