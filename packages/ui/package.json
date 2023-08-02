@@ -1,6 +1,6 @@
 {
   "name": "@workspace/ui-master",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "main": "./index.tsx",
   "types": "./index.tsx",
   "license": "MIT",

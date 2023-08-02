@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.9.1](https://github.com/alojzy231/release-please-playground/compare/ui-master-v1.9.0...ui-master-v1.9.1) (2023-08-02)
+
+
+### Bug Fixes
+
+* ui package 3 ([6dbc459](https://github.com/alojzy231/release-please-playground/commit/6dbc459e679eb708e64f1865f55ba25b919d17f1))
+
 ## [1.9.0](https://github.com/alojzy231/release-please-playground/compare/ui-master-v1.8.0...ui-master-v1.9.0) (2023-08-02)
 
 
