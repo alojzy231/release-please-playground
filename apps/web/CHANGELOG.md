@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.5.0](https://github.com/alojzy231/release-please-playground/compare/web-v1.4.0...web-v1.5.0) (2023-08-02)
+
+
+### Features
+
+* update ui package and docs ([845ff93](https://github.com/alojzy231/release-please-playground/commit/845ff930b0dd54f49463a2832a52f77b4ccbd55c))
+
+
+### Bug Fixes
+
+* update web 4 ([d588aae](https://github.com/alojzy231/release-please-playground/commit/d588aaed552f669e83a98a0598ef4b603c31f7e4))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @workspace/ui-master bumped to 1.6.0
+
 ## [1.4.0](https://github.com/alojzy231/release-please-playground/compare/web-v1.3.1...web-v1.4.0) (2023-08-02)
 
 
