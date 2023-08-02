@@ -1,5 +1,11 @@
 # Changelog
 
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @workspace/ui-master bumped to 1.6.0
+
 ## [1.5.0](https://github.com/alojzy231/release-please-playground/compare/web-v1.4.0...web-v1.5.0) (2023-08-02)
 
 
