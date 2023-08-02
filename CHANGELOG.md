@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.2.0](https://github.com/alojzy231/release-please-playground/compare/v1.1.0...v1.2.0) (2023-08-02)
+
+
+### Features
+
+* docs 2 ([b35772e](https://github.com/alojzy231/release-please-playground/commit/b35772e495e85a8ea6c97c4adfa2b4afb44d6229))
+* ui package ([9100dbc](https://github.com/alojzy231/release-please-playground/commit/9100dbc435bfc2d6181681a9ba13b3e68812e544))
+* ui package 3 ([3d9f9ec](https://github.com/alojzy231/release-please-playground/commit/3d9f9ec95f81b2ff7041e16485131bc84453de3d))
+* ui package 4 ([b1b0609](https://github.com/alojzy231/release-please-playground/commit/b1b0609202c09615a6c8736027729dd00b54946d))
+* web 3 ([4ffc70f](https://github.com/alojzy231/release-please-playground/commit/4ffc70f60cd6d5dd90bc18fb8172f3ea06530aea))
+
+
+### Bug Fixes
+
+* docs 3 ([ec30c34](https://github.com/alojzy231/release-please-playground/commit/ec30c348c5a8d584fff2b997fe1c536cf4b8984a))
+* ui 5 ([5a69e3f](https://github.com/alojzy231/release-please-playground/commit/5a69e3f6bac44ad5551b574d879bbdfbe66aca73))
+* vercel branch name ([e2787a7](https://github.com/alojzy231/release-please-playground/commit/e2787a772fe768c3460b5755afe132296602dcf4))
+* web 2 ([e6cdb39](https://github.com/alojzy231/release-please-playground/commit/e6cdb39615fe99b01a3aee37771387e38cf49ad8))
+
 ## [1.1.0](https://github.com/alojzy231/release-please-playground/compare/v1.0.0...v1.1.0) (2023-08-02)
 
 
