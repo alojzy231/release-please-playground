@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0](https://github.com/alojzy231/release-please-playground/compare/ui-master-v1.7.0...ui-master-v1.8.0) (2023-08-02)
+
+
+### Features
+
+* combined ui package and docs ([c6d1f93](https://github.com/alojzy231/release-please-playground/commit/c6d1f937636cb848dae1ef9dc04def83c0a5b656))
+
 ## [1.7.0](https://github.com/alojzy231/release-please-playground/compare/ui-master-v1.6.0...ui-master-v1.7.0) (2023-08-02)
 
 
