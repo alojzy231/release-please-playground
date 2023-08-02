@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/alojzy231/release-please-playground/compare/ui-master-v1.4.1...ui-master-v1.5.0) (2023-08-02)
+
+
+### Features
+
+* ui package ([9100dbc](https://github.com/alojzy231/release-please-playground/commit/9100dbc435bfc2d6181681a9ba13b3e68812e544))
+
 ## [1.4.1](https://github.com/alojzy231/release-please-playground/compare/ui-master-v1.4.0...ui-master-v1.4.1) (2023-08-02)
 
 
