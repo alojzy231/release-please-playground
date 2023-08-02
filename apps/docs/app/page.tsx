@@ -5,7 +5,7 @@ export default function Page() {
     <>
       <Header text="Docs" />
       <Button />
-      1
+      12
     </>
   );
 }
