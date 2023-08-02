@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/alojzy231/release-please-playground/compare/docs-panel-v1.4.1...docs-panel-v1.5.0) (2023-08-02)
+
+
+### Features
+
+* docs 5 ([f7312d7](https://github.com/alojzy231/release-please-playground/commit/f7312d72de042a6ed4e880cd711891ad314ec7c0))
+
 ## [1.4.1](https://github.com/alojzy231/release-please-playground/compare/docs-panel-v1.4.0...docs-panel-v1.4.1) (2023-08-02)
 
 
