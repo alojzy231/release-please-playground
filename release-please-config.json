@@ -1,7 +1,13 @@
 {
   "bootstrap-sha": "3c3c08cacb2e8b21e7ad9b249d1bd4c8e257c376",
   "release-type": "node",
+  "separate-pull-requests": true,
+  "plugins": ["node-workspace"],
+  "monorepo-tags": true,
+  "pull-request-title-pattern": "chore(${component}): release ${version}",
   "packages": {
-    ".": {}
+    "apps/docs": {},
+    "apps/web": {},
+    "packages/ui": {}
   }
 }
