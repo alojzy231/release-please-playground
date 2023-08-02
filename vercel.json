@@ -5,7 +5,7 @@
       "release-please--branches--master": false,
       "release-please--branches--master--components--web": false,
       "release-please--branches--master--components--docs-panel": false,
-      "release-please--branches--master--components-ui-master": false
+      "release-please--branches--master--components--ui-master": false
     }
   }
 }
