@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/alojzy231/release-please-playground/compare/ui-master-v1.4.0...ui-master-v1.4.1) (2023-08-02)
+
+
+### Bug Fixes
+
+* ui 5 ([5a69e3f](https://github.com/alojzy231/release-please-playground/commit/5a69e3f6bac44ad5551b574d879bbdfbe66aca73))
+
 ## [1.4.0](https://github.com/alojzy231/release-please-playground/compare/ui-master-v1.3.0...ui-master-v1.4.0) (2023-08-02)
 
 
