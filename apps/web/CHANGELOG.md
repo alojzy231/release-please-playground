@@ -12,6 +12,21 @@
   * dependencies
     * @workspace/ui-master bumped to 1.8.0
 
+## [1.9.0](https://github.com/alojzy231/release-please-playground/compare/web-v1.8.0...web-v1.9.0) (2023-08-03)
+
+
+### Features
+
+* update ui package and web ([376bf24](https://github.com/alojzy231/release-please-playground/commit/376bf24cf1868d6243c9004f84ac772424d720bf))
+* web 6 ([cadeb3a](https://github.com/alojzy231/release-please-playground/commit/cadeb3a26f5d5a7cd2e07ce7ebcd418201195082))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @workspace/ui-master bumped to 1.12.0
+
 ## [1.8.0](https://github.com/alojzy231/release-please-playground/compare/web-v1.7.1...web-v1.8.0) (2023-08-03)
 
 
