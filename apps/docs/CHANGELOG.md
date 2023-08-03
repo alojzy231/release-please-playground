@@ -6,6 +6,12 @@
   * dependencies
     * @workspace/ui-master bumped to 1.8.0
 
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @workspace/ui-master bumped to 1.13.0
+
 ## [1.13.0](https://github.com/alojzy231/release-please-playground/compare/docs-panel-v1.12.0...docs-panel-v1.13.0) (2023-08-03)
 
 

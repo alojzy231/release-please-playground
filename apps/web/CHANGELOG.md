@@ -12,6 +12,12 @@
   * dependencies
     * @workspace/ui-master bumped to 1.8.0
 
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @workspace/ui-master bumped to 1.13.0
+
 ## [1.9.0](https://github.com/alojzy231/release-please-playground/compare/web-v1.8.0...web-v1.9.0) (2023-08-03)
 
 
