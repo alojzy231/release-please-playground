@@ -12,6 +12,13 @@
   * dependencies
     * @workspace/ui-master bumped to 1.8.0
 
+## [1.8.0](https://github.com/alojzy231/release-please-playground/compare/web-v1.7.1...web-v1.8.0) (2023-08-03)
+
+
+### Features
+
+* web 5 ([8b7a69b](https://github.com/alojzy231/release-please-playground/commit/8b7a69bab5975442cf39e34ec1b02f8ad0b6f7d2))
+
 ## [1.7.0](https://github.com/alojzy231/release-please-playground/compare/web-v1.6.1...web-v1.7.0) (2023-08-02)
 
 
