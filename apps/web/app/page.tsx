@@ -5,7 +5,7 @@ export default function Page() {
     <>
       <Header text="Web" />
       <Button />
-      123456
+      1234567
     </>
   );
 }
