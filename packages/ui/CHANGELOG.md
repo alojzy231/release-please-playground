@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.10.0](https://github.com/alojzy231/release-please-playground/compare/ui-master-v1.9.1...ui-master-v1.10.0) (2023-08-03)
+
+
+### Features
+
+* ui package ([8312e16](https://github.com/alojzy231/release-please-playground/commit/8312e165bbe7bb00828898d95e169c531eaff590))
+
 ## [1.9.1](https://github.com/alojzy231/release-please-playground/compare/ui-master-v1.9.0...ui-master-v1.9.1) (2023-08-02)
 
 
