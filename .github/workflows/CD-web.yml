@@ -6,6 +6,7 @@ on:
     # Pattern matched against refs/tags
     tags:
       - 'web-v*' # Push events to every tag not containing /
+      - 'docs-v*'
 
 jobs:
   build:
