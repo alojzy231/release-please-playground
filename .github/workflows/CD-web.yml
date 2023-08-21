@@ -5,7 +5,7 @@ on:
     workflow_dispatch:
     # Pattern matched against refs/tags
     tags:
-      - '*' # Push events to every tag not containing /
+      - 'web-v*' # Push events to every tag not containing /
 
 jobs:
   build:

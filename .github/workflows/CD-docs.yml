@@ -5,7 +5,7 @@ on:
     workflow_dispatch:
     # Pattern matched against refs/tags
     tags:
-      - '*'
+      - 'docs-v*'
 
 jobs:
   build:
