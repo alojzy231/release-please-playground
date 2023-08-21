@@ -12,6 +12,14 @@
   * dependencies
     * @workspace/ui-master bumped to 1.13.0
 
+## [1.1.0](https://github.com/alojzy231/release-please-playground/compare/docs-panel-v1.0.0...docs-panel-v1.1.0) (2023-08-21)
+
+
+### Features
+
+* app ([d816719](https://github.com/alojzy231/release-please-playground/commit/d816719c3aa7d518850414c5f705f3394d9d6747))
+* docs ([831f2f1](https://github.com/alojzy231/release-please-playground/commit/831f2f1d77d62b63ee42f28c47e046eecf28d8fc))
+
 ## 1.0.0 (2023-08-03)
 
 
