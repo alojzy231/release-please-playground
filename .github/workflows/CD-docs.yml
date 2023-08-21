@@ -2,9 +2,10 @@ name: CD - Docs - prod
 
 on:
   push:
+    workflow_dispatch:
     # Pattern matched against refs/tags
     tags:
-      - 'docs-panel-*'
+      - '*'
 
 jobs:
   build:
