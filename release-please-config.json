@@ -1,7 +1,6 @@
 {
   "bootstrap-sha": "bfa8ddce484c5b657887ff3f9cf6088d190984ff",
   "release-type": "node",
-  "monorepo-tags": true,
   "packages": {
     "apps/docs": {},
     "apps/web": {}
