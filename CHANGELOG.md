@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.1.0](https://github.com/alojzy231/release-please-playground/compare/v2.0.0...v2.1.0) (2023-08-21)
+
+
+### Features
+
+* app ([d816719](https://github.com/alojzy231/release-please-playground/commit/d816719c3aa7d518850414c5f705f3394d9d6747))
+* web app ([706c0a0](https://github.com/alojzy231/release-please-playground/commit/706c0a0ab95bb8265f15e4ccee97ed01615aac46))
+
 ## [2.0.0](https://github.com/alojzy231/release-please-playground/compare/v2.0.0...v2.0.0) (2023-08-21)
 
 
