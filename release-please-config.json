@@ -4,6 +4,7 @@
   "monorepo-tags": true,
   "packages": {
     "apps/docs": {},
-    "apps/web": {}
+    "apps/web": {},
+    "packages/ui": {}
   }
 }
