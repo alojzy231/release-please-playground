@@ -3,6 +3,7 @@
   "release-type": "node",
   "monorepo-tags": true,
   "packages": {
-    ".": {}
+    "apps/docs": {},
+    "apps/web": {}
   }
 }
