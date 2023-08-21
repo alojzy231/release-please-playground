@@ -12,6 +12,13 @@
   * dependencies
     * @workspace/ui-master bumped to 1.13.0
 
+## [1.2.1](https://github.com/alojzy231/release-please-playground/compare/docs-v1.2.0...docs-v1.2.1) (2023-08-21)
+
+
+### Bug Fixes
+
+* copy change ([7ebfdd5](https://github.com/alojzy231/release-please-playground/commit/7ebfdd579959e8b0d30813e8a3cf1c69a87abc31))
+
 ## [1.2.0](https://github.com/alojzy231/release-please-playground/compare/docs-v1.1.0...docs-v1.2.0) (2023-08-21)
 
 
