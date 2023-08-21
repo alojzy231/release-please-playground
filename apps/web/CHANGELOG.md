@@ -24,6 +24,13 @@
   * dependencies
     * @workspace/ui-master bumped to 1.14.0
 
+## [1.10.0](https://github.com/alojzy231/release-please-playground/compare/web-v1.9.2...web-v1.10.0) (2023-08-21)
+
+
+### Features
+
+* web app ([706c0a0](https://github.com/alojzy231/release-please-playground/commit/706c0a0ab95bb8265f15e4ccee97ed01615aac46))
+
 ## [1.9.0](https://github.com/alojzy231/release-please-playground/compare/web-v1.8.0...web-v1.9.0) (2023-08-03)
 
 
